@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Leads tracer",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icons8-heavy-dollar-sign-48.png"
+    },
+    "permissions": ["tabs"]
+}
